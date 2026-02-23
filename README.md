@@ -46,10 +46,16 @@ AI_Email_Agent/
 │   ├── requirements.txt
 │
 ├── frontend/
+│   ├── public/
 │   ├── src/
+│   │   ├── App.js
+│   │   ├── App.css
+│   │   └── index.js
 │   ├── package.json
+│   ├── package-lock.json
 │
-└── README.md
+├── .gitignore
+├── README.md
 
 ---
 
@@ -123,3 +129,4 @@ This project demonstrates:
 
 Samridhi Sinha  
 B.Tech CSE | AI & Fullstack Enthusiast
+
