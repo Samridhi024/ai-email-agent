@@ -39,11 +39,12 @@ Built using Flask (backend), React (frontend), and Groq LLM API.
 
 ## Project Structure
 
+```
 AI_Email_Agent/
 │
 ├── backend/
 │   ├── main.py
-│   ├── requirements.txt
+│   └── requirements.txt
 │
 ├── frontend/
 │   ├── public/
@@ -52,11 +53,11 @@ AI_Email_Agent/
 │   │   ├── App.css
 │   │   └── index.js
 │   ├── package.json
-│   ├── package-lock.json
+│   └── package-lock.json
 │
 ├── .gitignore
-├── README.md
-
+└── README.md
+```
 ---
 
 ## How It Works
@@ -129,4 +130,5 @@ This project demonstrates:
 
 Samridhi Sinha  
 B.Tech CSE | AI & Fullstack Enthusiast
+
 
